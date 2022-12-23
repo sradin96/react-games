@@ -1,0 +1,125 @@
+{
+  "games": [
+    {
+      "id": "id0",
+      "name": "Counter-Strike: Global Offensive",
+      "genre": "FPS",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/730/capsule_616x353.jpg?t=1641233427",
+      "price": "5.99",
+      "video": "https://www.youtube.com/embed/edYCtaNueQY"
+    },
+    {
+      "id": "id2",
+      "name": "League of Legends",
+      "genre": "MOBA",
+      "image": "https://www.leagueoflegends.com/static/open-graph-2e582ae9fae8b0b396ca46ff21fd47a8.jpg",
+      "price": "3.99",
+      "video": "https://www.youtube.com/embed/edYCtaNueQY"
+    },
+    {
+      "id": "id4",
+      "name": "DotA2",
+      "genre": "MOBA",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota2_social.jpg",
+      "price": "9.99",
+      "video": "https://www.youtube.com/embed/edYCtaNueQY"
+    },
+    {
+      "id": "id6",
+      "name": "Dark Souls 3",
+      "genre": "Dungeon Crawl",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/374320/capsule_616x353.jpg?t=1661484182",
+      "price": "49.99",
+      "video": "https://www.youtube.com/embed/edYCtaNueQY"
+    },
+    {
+      "id": "id8",
+      "name": "Elden Ring",
+      "genre": "Dungeon Crawl",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Elden_Ring_Box_art.jpg/220px-Elden_Ring_Box_art.jpg",
+      "price": "9.99",
+      "video": "https://www.youtube.com/embed/edYCtaNueQY"
+    },
+    {
+      "name": "WoW",
+      "id": "lbqn2e91",
+      "genre": "MMORPG",
+      "image": "",
+      "price": "9.99",
+      "video": "https://www.youtube.com/embed/edYCtaNueQY"
+    },
+    {
+      "name": "WoW",
+      "id": "lbqtze4b",
+      "genre": "Dungeon Crawl",
+      "image": "",
+      "price": "9.99",
+      "video": "https://www.youtube.com/embed/edYCtaNueQY"
+    },
+    {
+      "name": "Name",
+      "id": "lbxpecpi",
+      "genre": "Dungeon Crawl",
+      "image": "Image",
+      "price": "9.99",
+      "video": "https://www.youtube.com/embed/edYCtaNueQY"
+    },
+    {
+      "name": "WoW",
+      "id": "lbxpeze1",
+      "genre": "MOBA",
+      "image": "Image",
+      "price": "3",
+      "video": "https://www.youtube.com/embed/edYCtaNueQY"
+    }
+  ],
+  "cart": [
+    {
+      "name": "Counter-Strike: Global Offensive",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/730/capsule_616x353.jpg?t=1641233427",
+      "id": "id0",
+      "genre": "FPS",
+      "price": "5.99"
+    },
+    {
+      "name": "League of Legends",
+      "image": "https://www.leagueoflegends.com/static/open-graph-2e582ae9fae8b0b396ca46ff21fd47a8.jpg",
+      "id": "id2",
+      "genre": "MOBA",
+      "price": "3.99"
+    },
+    {
+      "name": "Dark Souls 3",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/374320/capsule_616x353.jpg?t=1661484182",
+      "id": "id6",
+      "genre": "Dungeon Crawl",
+      "price": "49.99"
+    }
+  ],
+  "favourites": [
+    {
+      "name": "DotA2",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota2_social.jpg",
+      "id": "id4",
+      "genre": "MOBA"
+    },
+    {
+      "name": "Counter-Strike: Global Offensive",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/730/capsule_616x353.jpg?t=1641233427",
+      "id": "id0",
+      "genre": "FPS"
+    },
+    {
+      "name": "Elden Ring",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Elden_Ring_Box_art.jpg/220px-Elden_Ring_Box_art.jpg",
+      "id": "id8",
+      "genre": "Dungeon Crawl"
+    },
+    {
+      "name": "Dark Souls 3",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/374320/capsule_616x353.jpg?t=1661484182",
+      "id": "id6",
+      "genre": "Dungeon Crawl"
+    }
+  ]
+}
